@@ -1,2 +1,5 @@
-# hujur
-hujurmama
+# Hujur
+Q/A site for Islamic Questions.
+
+Ask your questions on discord server [hujur](https://discord.gg/wGjSFXze)
+
